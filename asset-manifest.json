@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://prontent11.github.io/csb-5gtl5/static/css/main.d239dd71.chunk.css",
-    "main.js": "https://prontent11.github.io/csb-5gtl5/static/js/main.48cf0c82.chunk.js",
-    "main.js.map": "https://prontent11.github.io/csb-5gtl5/static/js/main.48cf0c82.chunk.js.map",
+    "main.js": "https://prontent11.github.io/csb-5gtl5/static/js/main.63402c87.chunk.js",
+    "main.js.map": "https://prontent11.github.io/csb-5gtl5/static/js/main.63402c87.chunk.js.map",
     "runtime-main.js": "https://prontent11.github.io/csb-5gtl5/static/js/runtime-main.5d4f4a3a.js",
     "runtime-main.js.map": "https://prontent11.github.io/csb-5gtl5/static/js/runtime-main.5d4f4a3a.js.map",
     "static/css/2.d8cc838b.chunk.css": "https://prontent11.github.io/csb-5gtl5/static/css/2.d8cc838b.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.d8cc838b.chunk.css",
     "static/js/2.310ebebb.chunk.js",
     "static/css/main.d239dd71.chunk.css",
-    "static/js/main.48cf0c82.chunk.js"
+    "static/js/main.63402c87.chunk.js"
   ]
 }
